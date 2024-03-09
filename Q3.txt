@@ -1,0 +1,4 @@
+Read about the different between window, screen and document in JavaScript.
+     Window: Represents the browser window and provides access to browser-related properties and methods.
+     Screen: Represents the user’s screen and provides information about its size and orientation.
+     Document: Represents the HTML document loaded in the browser window and provides 
