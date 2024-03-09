@@ -8,7 +8,7 @@ let objs = [
     },
   ];
   for (let i = 0; i < objs.length; i++) {
-    if (objs[i]["name"] === "Swastic") {
+    if (objs[i]["name"] === "arun") {
       console.log(JSON.stringify(objs[i]));
     }
   }
